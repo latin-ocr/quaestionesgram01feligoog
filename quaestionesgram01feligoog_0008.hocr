@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesgram01feligoog_0008.png"; bbox 0 0 3224 5050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 25 1245 1451 1470">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 25 1245 1451 1470">
+     <span class='ocr_line' id='line_1_1' title="bbox 25 1245 1451 1470; baseline 0.006 -70"><span class='ocrx_word' id='word_1_1' title='bbox 25 1309 64 1470; x_wconf 74' lang='lat' dir='ltr'>j</span> <span class='ocrx_word' id='word_1_2' title='bbox 179 1331 187 1400; x_wconf 78' lang='lat'>·.</span> <span class='ocrx_word' id='word_1_3' title='bbox 297 1385 299 1388; x_wconf 17' lang='lat' dir='ltr'><em>J</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 401 1245 817 1422; x_wconf 57' lang='lat' dir='ltr'>Piseniibus</span> <span class='ocrx_word' id='word_1_5' title='bbox 873 1248 1263 1407; x_wconf 66' lang='lat' dir='ltr'>carissimis</span> <span class='ocrx_word' id='word_1_6' title='bbox 1448 1319 1451 1325; x_wconf 92' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 298 1867 1332 1985">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 298 1867 1332 1985">
+     <span class='ocr_line' id='line_1_2' title="bbox 298 1867 1332 1985; baseline 0.006 -27"><span class='ocrx_word' id='word_1_7' title='bbox 298 1867 403 1962; x_wconf 78' lang='lat' dir='ltr'>[has</span> <span class='ocrx_word' id='word_1_8' title='bbox 442 1867 713 1985; x_wconf 81' lang='lat' dir='ltr'>primitias</span> <span class='ocrx_word' id='word_1_9' title='bbox 752 1869 1063 1962; x_wconf 78' lang='lat' dir='ltr'>studiorum</span> <span class='ocrx_word' id='word_1_10' title='bbox 1100 1897 1332 1964; x_wconf 73' lang='lat' dir='ltr'><strong>suorum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 571 2415 1076 2850">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 571 2396 1076 2850">
+     <span class='ocr_line' id='line_1_3' title="bbox 571 2415 1076 2496; baseline 0.004 -14"><span class='ocrx_word' id='word_1_11' title='bbox 571 2415 644 2494; x_wconf 78' lang='lat' dir='ltr'>pio</span> <span class='ocrx_word' id='word_1_12' title='bbox 673 2417 896 2496; x_wconf 76' lang='lat' dir='ltr'>gratoque</span> <span class='ocrx_word' id='word_1_13' title='bbox 926 2415 1076 2484; x_wconf 83' lang='lat' dir='ltr'>animo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 758 2784 885 2850; baseline 0.016 -2"><span class='ocrx_word' id='word_1_14' title='bbox 758 2784 885 2850; x_wconf 80' lang='lat' dir='ltr'>dedic-at</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 735 3139 905 3207">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 735 3139 905 3207">
+     <span class='ocr_line' id='line_1_5' title="bbox 735 3139 905 3207; baseline 0.006 -1"><span class='ocrx_word' id='word_1_15' title='bbox 735 3139 905 3207; x_wconf 72' lang='lat' dir='ltr'><strong>Auctor.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1616 5050">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1616 5050">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1616 5050; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1616 5050; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
